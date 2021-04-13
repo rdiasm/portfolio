@@ -1,18 +1,18 @@
 # Rodrigo Medeiros
 
-## Participação no TDC POA - 04/12/2020 
+## Participation in TDC POA - 2020-12-04 
 
 ### Tema 
 ![Image](/images/tdconline.jfif)
 
-[Developer Experience em escala](https://www.linkedin.com/posts/rodrigo-medeiros-52608216_oracle-thedevconf-devopsdays-activity-6740430149373718528-Xw8W)
+[Developer Experience at scale](https://www.linkedin.com/posts/rodrigo-medeiros-52608216_oracle-thedevconf-devopsdays-activity-6740430149373718528-Xw8W)
 
-### Material da apresentação
-[Slides](https://www.slideshare.net/secret/cXwaeaxuo67dir)
+### Presentation Material
+[Presentation](https://www.slideshare.net/secret/cXwaeaxuo67dir)
 
 
 
-### Case de sucesso
+## Case Viavarejo and Github
 ![Image](/images/viavarejo.png)
 
-[Case em empresa de varejo no github](https://github.com/customer-stories/viavarejo)
+[ViaVarejo and Github](https://github.com/customer-stories/viavarejo)
