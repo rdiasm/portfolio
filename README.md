@@ -2,7 +2,7 @@
 
 ## Participation in TDC POA - 2020-12-04 
 
-### Tema 
+### Theme 
 ![Image](/images/tdconline.jfif)
 
 [Developer Experience at scale](https://www.linkedin.com/posts/rodrigo-medeiros-52608216_oracle-thedevconf-devopsdays-activity-6740430149373718528-Xw8W)
