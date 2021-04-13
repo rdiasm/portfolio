@@ -3,7 +3,7 @@
 ## Participação no TDC POA - 04/12/2020 
 
 ### Tema 
-![Image](portfolio/images/tdconline.jfif)
+![Image](/images/tdconline.jfif)
 [Developer Experience em escala](https://www.linkedin.com/posts/rodrigo-medeiros-52608216_oracle-thedevconf-devopsdays-activity-6740430149373718528-Xw8W)
 
 ### Material da apresentação
