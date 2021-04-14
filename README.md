@@ -1,5 +1,7 @@
 # Rodrigo Medeiros
 
+![Image](/images/rmedeiros.png)
+
 ## Participation in TDC POA - 2020-12-04 
 
 ### Theme 
