@@ -6,7 +6,7 @@
 
 ### Theme 
 ![Image](/images/tdconline.jfif)
-![Image](/images/rodrigomedeiros.jpg)
+
 [Developer Experience at scale](https://www.linkedin.com/posts/rodrigo-medeiros-52608216_oracle-thedevconf-devopsdays-activity-6740430149373718528-Xw8W)
 
 ### Presentation Material
