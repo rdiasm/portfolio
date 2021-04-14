@@ -1,6 +1,6 @@
 # Rodrigo Medeiros
 
-![Image](/images/rmedeiros.png)
+![Image](/images/rodrigomedeiros.png)
 
 ## Participation in TDC POA - 2020-12-04 
 
